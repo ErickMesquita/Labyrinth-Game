@@ -1,0 +1,19 @@
+bin/
+obj/
+envio/
+envio*
+report.docx
+Resources/fonts/zombiecontrol.ttf
+Resources/graphics/a*
+Resources/graphics/b*
+Resources/graphics/c*
+Resources/graphics/health_pickup.png
+Resources/graphics/player - Copia.png
+Resources/graphics/rip.png
+Resources/sound/chop.wav
+Resources/sound/death.wav
+Resources/sound/hit.wav
+Resources/sound/p*.wav
+Resources/sound/r*.wav
+Resources/sound/shoot.wav
+Resources/sound/splat.wav
