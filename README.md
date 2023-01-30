@@ -1,6 +1,15 @@
 # Labyrinth
 
-<img src="https://raw.githubusercontent.com/ErickMesquita/Labyrinth-Game/main/screenshots/Cover.PNG" style="margin: 0 auto 0 auto; display: block; width: 500px;">
+<img src="https://raw.githubusercontent.com/ErickMesquita/Labyrinth-Game/main/screenshots/Cover.PNG#vitrinedev" style="margin: 0 auto 0 auto; display: block; width: 500px;">
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | Labyrinth Game
+| :label: Tecnologias | C++, SFML, Game Development
+| :rocket: URL         | https://github.com/ErickMesquita/Labyrinth-Game
+| :fire: Desafio     | 
+
+## Intro
 
 LABYRINTH is a 2d single-screen scroller game. Using AWSD keys, the player must help the blue dot escape from the procedurally generated maze, going from “START” to “FINISH”. At the end of each level, a speed bonus is awarded to the player, but also the generated mazes get bigger and bigger! Each time you play, a different maze will be generated.
 
